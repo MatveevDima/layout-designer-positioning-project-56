@@ -1,0 +1,26 @@
+h1 {
+    font-size: 60px;
+    inline-size: 90px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 38px;
+    inline-size: 57px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+
+/* Заголовки на мобильной версии проекта
+Заголовок первого уровня
+Размер шрифта: 30px
+Межстрочный интервал: 45px
+Насыщенность: bold
+Символы имеют верхний регистр. Используйте свойство text-transform
+Заголовок второго уровня
+Размер шрифта: 18px
+Межстрочный интервал: 27px
+Насыщенность: bold
+Символы имеют верхний регистр. Используйте свойство text-transform */
